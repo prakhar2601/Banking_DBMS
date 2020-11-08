@@ -1,2 +1,2 @@
 # Banking_DBMS
-We have a problem and i am seaching for a temporary solution ...
+found a solution..
